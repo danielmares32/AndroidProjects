@@ -6,6 +6,10 @@ Fun characters app.
 
 ![Personajes](https://user-images.githubusercontent.com/53630621/147177146-bcc11343-60df-4905-8391-b6f0c386a1ca.png)
 
+# Notes & Reminders Widget
+
+![notes](https://user-images.githubusercontent.com/53630621/147186121-6c38b6cb-0e92-4abe-98e4-d2c183d35f94.png)
+
 # Taxes
 
 ![TaxesApp](https://user-images.githubusercontent.com/53630621/147176918-455feb14-c8a5-4bf2-ae91-5b24d19dd92b.png)
