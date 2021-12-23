@@ -2,6 +2,9 @@
 These are some of the apps I've been developing
 
 # Characters
+Fun characters app.
+
+![Personajes](https://user-images.githubusercontent.com/53630621/147177146-bcc11343-60df-4905-8391-b6f0c386a1ca.png)
 
 # Taxes
 
